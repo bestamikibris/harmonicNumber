@@ -1,2 +1,2 @@
 # harmonicNumber
-PatikaDev
+Bu proje PatikaDev ödevidir
